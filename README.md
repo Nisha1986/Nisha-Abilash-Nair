@@ -34,6 +34,7 @@ What I Love Working On
 📚 Creating bioinformatics content for education and outreach
 
 🔬 Current Project:
+
 Integrative Gene Expression Profiling and Connectivity Mapping for Drug Discovery in Depression
 Uncovering Molecular Signatures to Identify Novel Therapeutics.
 
