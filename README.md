@@ -1,6 +1,8 @@
 # Nisha-Abilash-Nair
 🔬 Scientist | 🧬 Bioinformatician | 🚀 Dreaming Big, Coding Life🎯
+
 ..................Turning data into discovery, one project at a time..........................
+
 Hi there! I'm Nisha, a passionate scientist who blends biology, coding, and creativity into exciting bioinformatics adventures.
 I believe in the magic where molecules meet machine learning and data meets dreams!
 
